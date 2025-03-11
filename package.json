@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-confirm",
+  "name": "bootstrap5-confirm",
   "version": "0.0.1",
   "description": "Show Bootstrap Confirm",
   "keywords": [
@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/bootstrap-confirm.git"
+    "url": "https://github.com/mrthito/bootstrap-confirm.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/bootstrap-confirm/issues"
+    "url": "https://github.com/mrthito/bootstrap-confirm/issues"
   }
 }
