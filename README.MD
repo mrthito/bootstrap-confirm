@@ -5,13 +5,21 @@ A simple Bootstrap-based confirmation modal for JavaScript.
 ## Installation
 
 ```sh
-npm install bootstrap-confirm
+npm install bootstrap5-confirm
+```
+
+```sh
+pnpm install bootstrap5-confirm
+```
+
+```sh
+bun install bootstrap5-confirm
 ```
 
 ## Usage
 
 ```js
-import BootstrapConfirm from "bootstrap-confirm";
+import BootstrapConfirm from "bootstrap5-confirm";
 
 new BootstrapConfirm({
   selector: ".delete-btn",
